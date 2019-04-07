@@ -11,6 +11,7 @@ I took the top 20 countires and plotted their standings on the above mentioned f
 However, there is a challenge. In case of goverment corruption, red actually means good because a low value for government corruption is a positive indication. But for the other factors, red is a bad sign while green is a good sign.
 
 All the submissions for that challenge are listed in the link below:
+
 http://www.storytellingwithdata.com/blog/2018/3/9/bring-on-the-bar-charts
 
 
